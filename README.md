@@ -15,6 +15,6 @@ Currently, I'm pursuing a master's degree in computer engineering while working 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMenna01&theme=tokyonight&card_width=600" alt="My GitHub Language Stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMenna01&theme=tokyonight&card_width=400" alt="My GitHub Language Stats">
   </a>
 </div>

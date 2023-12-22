@@ -7,9 +7,10 @@
 
 
 I hold a bachelor degree in computer engineering and I have a strong interest in both cybersecurity and blockchain. 
-Currently, I'm pursuing a master's degree in computer engineering while working on a project to explore the potential of the Polkadot ecosystem.
+Currently, I'm pursuing a master's degree in computer engineering while working on a project on the protocol level to explore the potential of the Polkadot ecosystem.
+Polkadot is a blockhain system, that enables the parallel execution of different chains, known as parachains, that are interoperable with one another and have a shared security at the protocol level.
 
-💻 I'm also learning Substrate and am fascinated by their potential for the blockchain industry.
+💻 I'm learning the Substrate framework and Ink!, a Rust EDSL for writing wasm smart contracts.
 
 🤝 Collaboration and continuous learning are at the core of my approach to this rapidly-evolving field. I always enjoy connecting with other like-minded individuals to exchange ideas and explore new opportunities.
 
